@@ -1,8 +1,8 @@
 # Pharacy store project
 
-Front-end: React
-Back-end: Django(Python)
-Database: MongoDB
+##Front-end: React
+##Back-end: Django(Python)
+##Database: MongoDB
 
 ## Available Scripts
 
