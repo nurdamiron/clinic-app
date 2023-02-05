@@ -1,72 +1,24 @@
 # Pharacy store project
 
-## Front-end: React
-## Back-end: Django(Python)
-## Database: MongoDB
+Front-end: React
+Back-end: Django(Python)
+Database: MongoDB
 
-## Available Scripts
+## 1 - Planning: Clarifying the requirements and defining the scope of work, including the features and functionalities described in the Terms of Reference.
 
-In the project directory, you can run:
+Design: Creating the website layout and user interface, considering the look and feel, navigation, and accessibility.
 
-### `npm start`
+Front-end development: Building the front-end of the website using React, including the home page, products, services, about us, means of communication and payment system pages.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Back-end development: Developing the back-end of the website using Spring, integrating it with the front-end, and ensuring the smooth flow of data and information.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Database: Implementing MongoDB as the database for the website and integrating it with the back-end.
 
-### `npm test`
+Testing: Carrying out comprehensive testing of the website, including functional testing, performance testing, and security testing, to ensure that the site is fully operational and secure.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Deployment: Deploying the website on a secure server, making it accessible via the HTTPS protocol, and integrating it with the WhatsApp bot and WhatsApp Business API.
 
-### `npm run build`
+Maintenance: Providing ongoing maintenance and support, including bug fixing, updates, and improvements, to ensure that the site continues to meet the needs of the users.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is a general outline and the actual process of work may vary depending on the specific requirements and circumstances.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
