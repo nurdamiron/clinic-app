@@ -1,8 +1,8 @@
 # Pharmacy store project
 
-Front-end: React
-Back-end: Django(Python)
-Database: MongoDB
+### Front-end: React
+### Back-end: Django(Python)
+### Database: MongoDB
 
 ## 1 - Planning
 Clarifying the requirements and defining the scope of work, including the features and functionalities described in the Terms of Reference
