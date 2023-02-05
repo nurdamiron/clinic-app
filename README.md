@@ -1,4 +1,4 @@
-# Pharacy store project
+# Pharmacy store project
 
 Front-end: React
 Back-end: Django(Python)
