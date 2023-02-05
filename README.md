@@ -1,6 +1,8 @@
 # Pharacy store project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Front-end: React
+Back-end: Django(Python)
+Database: MongoDB
 
 ## Available Scripts
 
