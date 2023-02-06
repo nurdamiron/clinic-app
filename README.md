@@ -4,6 +4,12 @@
 ### Back-end: Django(Python)
 ### Database: MongoDB
 
+
+### Task-1. Payment page with WhatsApp integration
+#### Video-example [https://www.youtube.com/watch?v=Vi0rhGWLcJY]
+#### 1. Design page with payment form
+#### 2. Implementation to React-Native
+#### 3. Integration with WhatsApp API 
 ## 1 - Planning
 Clarifying the requirements and defining the scope of work, including the features and functionalities described in the Terms of Reference
 The site should have the following features:
