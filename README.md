@@ -6,7 +6,7 @@
 
 
 ### Task-1. Payment page with WhatsApp integration
-#### Video-example [https://www.youtube.com/watch?v=Vi0rhGWLcJY]
+#### [Video-example](https://www.youtube.com/watch?v=Vi0rhGWLcJY)
 #### 1. Design page with payment form
 #### 2. Implementation to React-Native
 #### 3. Integration with WhatsApp API 
